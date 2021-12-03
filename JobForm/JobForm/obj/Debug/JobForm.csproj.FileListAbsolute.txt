@@ -1,0 +1,9 @@
+E:\Program\JobForm\JobForm\bin\Debug\JobForm.exe
+E:\Program\JobForm\JobForm\bin\Debug\JobForm.pdb
+E:\Program\JobForm\JobForm\obj\Debug\ResolveAssemblyReference.cache
+E:\Program\JobForm\JobForm\obj\Debug\JobForm.Form1.resources
+E:\Program\JobForm\JobForm\obj\Debug\JobForm.Properties.Resources.resources
+E:\Program\JobForm\JobForm\obj\Debug\JobForm.csproj.GenerateResource.Cache
+E:\Program\JobForm\JobForm\obj\Debug\JobForm.exe
+E:\Program\JobForm\JobForm\obj\Debug\JobForm.pdb
+E:\Program\JobForm\JobForm\obj\Debug\JobForm.Form2.resources

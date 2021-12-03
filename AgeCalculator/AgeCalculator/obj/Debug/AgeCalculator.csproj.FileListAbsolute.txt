@@ -1,0 +1,16 @@
+E:\Program\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.exe
+E:\Program\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.pdb
+E:\Program\AgeCalculator\AgeCalculator\obj\Debug\ResolveAssemblyReference.cache
+E:\Program\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.Form1.resources
+E:\Program\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.Properties.Resources.resources
+E:\Program\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csproj.GenerateResource.Cache
+E:\Program\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.exe
+E:\Program\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.pdb
+E:\Program\C#\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.exe
+E:\Program\C#\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.pdb
+E:\Program\C#\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.exe
+E:\Program\C#\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.pdb
+E:\Program\C#\AgeCalculator\AgeCalculator\obj\Debug\ResolveAssemblyReference.cache
+E:\Program\C#\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.Form1.resources
+E:\Program\C#\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.Properties.Resources.resources
+E:\Program\C#\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csproj.GenerateResource.Cache

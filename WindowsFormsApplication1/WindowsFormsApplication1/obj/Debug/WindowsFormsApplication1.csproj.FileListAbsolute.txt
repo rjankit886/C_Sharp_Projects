@@ -1,0 +1,8 @@
+E:\Program\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\Program\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Program\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Program\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TrafficLight.exe
+E:\Program\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TrafficLight.pdb
+E:\Program\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\TrafficLight.Properties.Resources.resources
+E:\Program\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\TrafficLight.exe
+E:\Program\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\TrafficLight.pdb

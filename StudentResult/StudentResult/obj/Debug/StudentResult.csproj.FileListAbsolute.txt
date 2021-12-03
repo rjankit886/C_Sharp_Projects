@@ -1,0 +1,8 @@
+E:\Program\StudentResult\StudentResult\bin\Debug\StudentResult.exe
+E:\Program\StudentResult\StudentResult\bin\Debug\StudentResult.pdb
+E:\Program\StudentResult\StudentResult\obj\Debug\ResolveAssemblyReference.cache
+E:\Program\StudentResult\StudentResult\obj\Debug\StudentResult.Form1.resources
+E:\Program\StudentResult\StudentResult\obj\Debug\StudentResult.Properties.Resources.resources
+E:\Program\StudentResult\StudentResult\obj\Debug\StudentResult.csproj.GenerateResource.Cache
+E:\Program\StudentResult\StudentResult\obj\Debug\StudentResult.exe
+E:\Program\StudentResult\StudentResult\obj\Debug\StudentResult.pdb

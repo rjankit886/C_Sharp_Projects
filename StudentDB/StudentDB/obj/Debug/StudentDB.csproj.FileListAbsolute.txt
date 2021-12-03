@@ -1,0 +1,10 @@
+E:\Program\C#\StudentDB\StudentDB\bin\Debug\Ankit.accdb
+E:\Program\C#\StudentDB\StudentDB\bin\Debug\StudentDB.exe.config
+E:\Program\C#\StudentDB\StudentDB\bin\Debug\StudentDB.exe
+E:\Program\C#\StudentDB\StudentDB\bin\Debug\StudentDB.pdb
+E:\Program\C#\StudentDB\StudentDB\obj\Debug\ResolveAssemblyReference.cache
+E:\Program\C#\StudentDB\StudentDB\obj\Debug\StudentDB.Form1.resources
+E:\Program\C#\StudentDB\StudentDB\obj\Debug\StudentDB.Properties.Resources.resources
+E:\Program\C#\StudentDB\StudentDB\obj\Debug\StudentDB.csproj.GenerateResource.Cache
+E:\Program\C#\StudentDB\StudentDB\obj\Debug\StudentDB.exe
+E:\Program\C#\StudentDB\StudentDB\obj\Debug\StudentDB.pdb

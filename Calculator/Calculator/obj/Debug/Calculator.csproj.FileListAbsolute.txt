@@ -1,0 +1,8 @@
+E:\Program\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Program\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Program\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+E:\Program\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Program\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Program\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Program\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Program\Calculator\Calculator\obj\Debug\Calculator.pdb

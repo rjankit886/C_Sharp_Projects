@@ -1,0 +1,10 @@
+E:\Program\Marksheet\Marksheet\bin\Debug\Marksheet.exe
+E:\Program\Marksheet\Marksheet\bin\Debug\Marksheet.pdb
+E:\Program\Marksheet\Marksheet\obj\Debug\ResolveAssemblyReference.cache
+E:\Program\Marksheet\Marksheet\obj\Debug\Marksheet.Form1.resources
+E:\Program\Marksheet\Marksheet\obj\Debug\Marksheet.Properties.Resources.resources
+E:\Program\Marksheet\Marksheet\obj\Debug\Marksheet.csproj.GenerateResource.Cache
+E:\Program\Marksheet\Marksheet\obj\Debug\Marksheet.exe
+E:\Program\Marksheet\Marksheet\obj\Debug\Marksheet.pdb
+E:\Program\C#\Marksheet\Marksheet\obj\Debug\Marksheet.exe
+E:\Program\C#\Marksheet\Marksheet\obj\Debug\Marksheet.pdb

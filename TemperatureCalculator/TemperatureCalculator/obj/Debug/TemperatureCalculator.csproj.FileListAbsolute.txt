@@ -1,0 +1,8 @@
+E:\Program\TemperatureCalculator\TemperatureCalculator\bin\Debug\TemperatureCalculator.exe
+E:\Program\TemperatureCalculator\TemperatureCalculator\bin\Debug\TemperatureCalculator.pdb
+E:\Program\TemperatureCalculator\TemperatureCalculator\obj\Debug\ResolveAssemblyReference.cache
+E:\Program\TemperatureCalculator\TemperatureCalculator\obj\Debug\TemperatureCalculator.Form1.resources
+E:\Program\TemperatureCalculator\TemperatureCalculator\obj\Debug\TemperatureCalculator.Properties.Resources.resources
+E:\Program\TemperatureCalculator\TemperatureCalculator\obj\Debug\TemperatureCalculator.csproj.GenerateResource.Cache
+E:\Program\TemperatureCalculator\TemperatureCalculator\obj\Debug\TemperatureCalculator.exe
+E:\Program\TemperatureCalculator\TemperatureCalculator\obj\Debug\TemperatureCalculator.pdb

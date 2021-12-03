@@ -1,0 +1,8 @@
+E:\Program\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe
+E:\Program\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+E:\Program\SalaryCalculator\SalaryCalculator\obj\Debug\ResolveAssemblyReference.cache
+E:\Program\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.Form1.resources
+E:\Program\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.Properties.Resources.resources
+E:\Program\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csproj.GenerateResource.Cache
+E:\Program\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.exe
+E:\Program\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.pdb

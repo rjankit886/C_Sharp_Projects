@@ -1,0 +1,8 @@
+E:\Program\CheckNo\CheckNo\obj\Debug\ResolveAssemblyReference.cache
+E:\Program\CheckNo\CheckNo\obj\Debug\CheckNo.Form1.resources
+E:\Program\CheckNo\CheckNo\obj\Debug\CheckNo.Properties.Resources.resources
+E:\Program\CheckNo\CheckNo\obj\Debug\CheckNo.csproj.GenerateResource.Cache
+E:\Program\CheckNo\CheckNo\bin\Debug\CheckNo.exe
+E:\Program\CheckNo\CheckNo\bin\Debug\CheckNo.pdb
+E:\Program\CheckNo\CheckNo\obj\Debug\CheckNo.exe
+E:\Program\CheckNo\CheckNo\obj\Debug\CheckNo.pdb

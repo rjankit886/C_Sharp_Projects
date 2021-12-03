@@ -1,0 +1,10 @@
+E:\Program\Check2No\Check2No\bin\Debug\Check2No.exe
+E:\Program\Check2No\Check2No\bin\Debug\Check2No.pdb
+E:\Program\Check2No\Check2No\obj\Debug\ResolveAssemblyReference.cache
+E:\Program\Check2No\Check2No\obj\Debug\Check2No.Form1.resources
+E:\Program\Check2No\Check2No\obj\Debug\Check2No.Properties.Resources.resources
+E:\Program\Check2No\Check2No\obj\Debug\Check2No.csproj.GenerateResource.Cache
+E:\Program\Check2No\Check2No\obj\Debug\Check2No.exe
+E:\Program\Check2No\Check2No\obj\Debug\Check2No.pdb
+E:\C#\Check2No\Check2No\obj\Debug\Check2No.exe
+E:\C#\Check2No\Check2No\obj\Debug\Check2No.pdb

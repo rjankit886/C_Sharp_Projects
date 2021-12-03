@@ -1,0 +1,8 @@
+E:\Program\Keytype\Keytype\bin\Debug\Keytype.exe
+E:\Program\Keytype\Keytype\bin\Debug\Keytype.pdb
+E:\Program\Keytype\Keytype\obj\Debug\ResolveAssemblyReference.cache
+E:\Program\Keytype\Keytype\obj\Debug\Keytype.Form1.resources
+E:\Program\Keytype\Keytype\obj\Debug\Keytype.Properties.Resources.resources
+E:\Program\Keytype\Keytype\obj\Debug\Keytype.csproj.GenerateResource.Cache
+E:\Program\Keytype\Keytype\obj\Debug\Keytype.exe
+E:\Program\Keytype\Keytype\obj\Debug\Keytype.pdb

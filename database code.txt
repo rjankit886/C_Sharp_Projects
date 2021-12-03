@@ -1,0 +1,122 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+using System.Data.OleDb;
+
+namespace DataBase
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        OleDbConnection con;
+        OleDbCommand cmd;
+        OleDbDataAdapter adapter;
+        DataSet ds;
+        int sid;
+
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //string constr = @"Provider=Microsoft.Jet.OLEDB.4.0; Data Source=k:\\mydb.accdb";
+            string constr = @"Provider=Microsoft.ACE.OLEDB.12.0; Data Source=k:\\mydb.accdb";
+            string cmdstr = "insert into studata (sid, sname, age, gender, per) values(? ,? ,? ,? ,?)";
+            OleDbConnection con = new OleDbConnection(constr);
+            OleDbCommand com = new OleDbCommand(cmdstr, con);
+            
+            con.Open();
+            com.Parameters.AddWithValue("?", textBox1.Text);
+            com.Parameters.AddWithValue("?", textBox2.Text);
+            com.Parameters.AddWithValue("?", textBox3.Text);
+            com.Parameters.AddWithValue("?", comboBox1.Text);
+            com.Parameters.AddWithValue("?", textBox4.Text);
+            com.ExecuteNonQuery();
+            con.Close();
+            
+            textBox1.Text = "";
+            textBox2.Text = "";
+            textBox3.Text = "";
+            textBox4.Text = "";
+            comboBox1.Text = "SELECT ME";
+
+            MessageBox.Show("Data Inserted Successfully...", "Information");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (textBox5.Text == "")
+            {
+                MessageBox.Show("Please! Enter The Student ID.","Warning");
+                textBox5.Focus();
+            }
+            else
+            {
+                string constr = @"Provider=Microsoft.ACE.OLEDB.12.0; Data Source=k:\\mydb.accdb";
+                OleDbConnection con = new OleDbConnection(constr);
+                
+                con.Open();
+            
+                int n = Convert.ToInt32(textBox5.Text);
+                DataRow drow = ds.Tables[0].Rows.Find(n);
+                if (drow != null)
+                {
+                    textBox6.Text = drow[1].ToString();
+                    textBox7.Text = drow[2].ToString();
+                    textBox8.Text = drow[3].ToString();
+                    comboBox2.Text = drow[4].ToString();
+                }
+                else
+                    MessageBox.Show("Record not found");
+                
+                con.Close();
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            cmd = new OleDbCommand("delete from studata where sid = '" + textBox10.Text + "'", con);
+            con.Open();
+            int n = cmd.ExecuteNonQuery();
+            con.Close();
+            if (n > 0)
+            {
+                MessageBox.Show("Record Deleted");
+            }
+            else
+                MessageBox.Show("Deletion failed");
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            con = new OleDbConnection(@"Provider=Microsoft.ACE.OLEDB.12.0; Data Source=k:\\mydb.accdb");
+            loaddata();
+        }
+
+        void loaddata()
+        {
+            adapter = new OleDbDataAdapter("select * from studata", con);
+            ds = new DataSet();
+            adapter.Fill(ds, "studata");
+            ds.Tables[0].Constraints.Add("sid", ds.Tables[0].Columns[0], true);
+            dataGridView1.DataSource = ds.Tables[0];
+        }
+       
+        private void button3_Click(object sender, EventArgs e)
+        {
+            con.Open();
+            cmd = new OleDbCommand("update studata set sname= '" + textBox6.Text + "', age='" + textBox7.Text + "', gender='" + comboBox2.Text + "', per='" + textBox8.Text + "' where sid = '" + textBox5.Text + "'", con);
+            cmd.ExecuteNonQuery();
+            con.Close();
+            MessageBox.Show("Record Updated");
+
+        }
+    }
+}

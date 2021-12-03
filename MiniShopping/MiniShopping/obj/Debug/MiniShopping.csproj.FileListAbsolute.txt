@@ -1,0 +1,8 @@
+E:\Program\MiniShopping\MiniShopping\bin\Debug\MiniShopping.exe
+E:\Program\MiniShopping\MiniShopping\bin\Debug\MiniShopping.pdb
+E:\Program\MiniShopping\MiniShopping\obj\Debug\ResolveAssemblyReference.cache
+E:\Program\MiniShopping\MiniShopping\obj\Debug\MiniShopping.Form1.resources
+E:\Program\MiniShopping\MiniShopping\obj\Debug\MiniShopping.Properties.Resources.resources
+E:\Program\MiniShopping\MiniShopping\obj\Debug\MiniShopping.csproj.GenerateResource.Cache
+E:\Program\MiniShopping\MiniShopping\obj\Debug\MiniShopping.exe
+E:\Program\MiniShopping\MiniShopping\obj\Debug\MiniShopping.pdb
